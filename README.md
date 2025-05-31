@@ -1,6 +1,5 @@
-# CAT-Seg: Cost Aggregation for Open-Vocabulary Semantic Segmentation [CVPR 2024 Highlight]
+# OC-COAST: Cost Aggregation with Optimal Transport for Open-Vocabulary Semantic Segmentation [CVPRW 2025]
 The official implementation of OV-COAST
-
 
 Open-vocabulary semantic segmentation (OVSS) entails assigning semantic labels to each pixel in an image using textual descriptions, typically leveraging world mod
 els such as CLIP. To enhance out-of-domain generalization,
@@ -19,8 +18,6 @@ ate state-of-the-art OVSS models on the MESS benchmark,
  the cost-aggregation model CAT-Seg with ViT-B backbone,
  achieving superior results—surpassing CAT-Seg by 1.72%
  and SAN-B by 4.9% mIoU.
-
-For further details, please check out our [paper](https://arxiv.org/abs/2303.11797)
 
 ## Installation
 Please follow [installation](INSTALL.md). 
