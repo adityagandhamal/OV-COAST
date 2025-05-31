@@ -34,9 +34,6 @@ Please follow [installation](INSTALL.md).
 ## Evaluation
 ```sh eval.sh``` evaluates the model on the MESS Benchmark, with weights in the output directory if not specified.
 
-## Checkpoint
-You can access the pre-trained OV-COAST checkpoint here
-
 ## Performance on the MESS Benchmark
 ![fig2.png](https://github.com/adityagandhamal/OV-COAST/blob/main/fig2.png)
 
