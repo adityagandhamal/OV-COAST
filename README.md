@@ -25,7 +25,8 @@ ate state-of-the-art OVSS models on the MESS benchmark,
 Please follow [installation](INSTALL.md). 
 
 ## Data Preparation
-Please follow [dataset preperation](datasets/README.md).
+- [For setting the COCO-Stuff dataset](https://github.com/cvlab-kaist/CAT-Seg/tree/main/datasets)
+- [Setting the MESS Benchmark for evaluation](https://github.com/blumenstiel/MESS/blob/main/DATASETS.md)
 
 ## Training
 ```sh run.sh``` trains the model in default configuration.
