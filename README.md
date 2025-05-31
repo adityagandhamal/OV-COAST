@@ -1,4 +1,4 @@
-# OC-COAST: Cost Aggregation with Optimal Transport for Open-Vocabulary Semantic Segmentation [CVPRW 2025]
+# OV-COAST: Cost Aggregation with Optimal Transport for Open-Vocabulary Semantic Segmentation [CVPRW 2025]
 The official implementation of OV-COAST
 
 Open-vocabulary semantic segmentation (OVSS) entails assigning semantic labels to each pixel in an image using textual descriptions, typically leveraging world mod
