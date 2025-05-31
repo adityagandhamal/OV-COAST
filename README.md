@@ -18,6 +18,10 @@ ate state-of-the-art OVSS models on the MESS benchmark,
  the cost-aggregation model CAT-Seg with ViT-B backbone,
  achieving superior results—surpassing CAT-Seg by 1.72%
  and SAN-B by 4.9% mIoU.
+ 
+ <br>
+ 
+ [fig1.png](https://github.com/adityagandhamal/OV-COAST/blob/main/fig1.png)
 
 ## Installation
 Please follow [installation](INSTALL.md). 
