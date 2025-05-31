@@ -133,11 +133,6 @@ class OVCOAST(nn.Module):
                     The prediction has shape KxHxW that represents the logits of
                     each class for each pixel.
         """
-        #for name, params in self.sem_seg_head.predictor.clip_model.named_parameters():
-        # for name, params in self.named_parameters():
-        #    if params.requires_grad == True:
-        #        print(name)
-        # print(siuuu)
         images = [x["image"].to(self.device) for x in batched_inputs]
         if not self.training and self.sliding_window:
             return self.inference_sliding_window(batched_inputs)
