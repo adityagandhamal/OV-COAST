@@ -32,7 +32,7 @@ Please follow [installation](INSTALL.md).
 ```sh run.sh``` trains the model in default configuration.
 
 ## Evaluation
-```sh eval.sh``` evaluates the model on the MESS Benchmark, with weights in the output directory if not specified.
+```sh eval.sh``` evaluates the model on the MESS Benchmark.
 
 ## Checkpoint
 The pretrained checkpoint can be accessed [here](https://drive.google.com/drive/u/1/folders/1X88GJfj2dA2IG8RieTALnemiay8RJLdn)
