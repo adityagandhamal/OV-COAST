@@ -1,0 +1,23 @@
+# Copyright (c) Facebook, Inc. and its affiliates.
+from . import (
+    register_coco_stuff,
+    register_floodnet,
+    register_kvasir_instrument,
+    register_cub_200,
+    register_suim,
+    register_chase_db1,
+    register_uavid,
+    register_isprs_potsdam,
+    register_pst900,
+    register_mhp_v1,
+    register_worldfloods,
+    register_corrosion_cs,
+    register_cryonuseg,
+    register_isaid,
+    register_dark_zurich,
+    register_foodseg,
+    register_atlantis,
+    register_deepcrack,
+    register_zerowaste,
+    register_cwfid,
+)
